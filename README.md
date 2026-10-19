@@ -1,6 +1,10 @@
 <div align="center">
 
-# Antara Masuma
+
+ <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1500&color=3279B8&center=true&vCenter=true&width=550&height=65&lines=Antara+Masuma" alt="Antara Masuma typing animation" />
+  </h1>
+  
 
 **Software Development · Artificial Intelligence · Machine Learning**
 
@@ -19,7 +23,7 @@ I am a Computer Science and Engineering undergraduate interested in **software e
 
 - **Software:** Flutter applications, Firebase-backed systems, and web development
 - **AI/ML:** Computer vision, model development, and applied machine learning
-- ** Currently improving my skills in Computer Vision, Deep Learning and Software development
+- **Currently learning:** Computer Vision, Deep Learning, and Software Development
 
 ### Technologies
 
